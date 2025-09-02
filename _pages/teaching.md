@@ -14,8 +14,6 @@ author_profile: true
 
 ## Selected Student Feedback
 
-## Selected Student Feedback
-
 > *Professor Sacher consistently went above and beyond to ensure that his students had a complete
 > understanding of the rigorous material covered in FIN 367. As someone that took this course during
 > the summer to pursue an early graduation, I was deeply impressed by his ability to teach a wide
