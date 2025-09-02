@@ -22,7 +22,7 @@ repository               : "maxsacher/maxsacher.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/headshot.jpg"
+  avatar           : "headshot.jpg"
   name             : "Maxwell N Sacher"
   pronouns         : # example: "she/her"  
   bio              : "Finance PhD student @ UT Austin"
