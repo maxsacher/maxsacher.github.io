@@ -8,9 +8,10 @@ author_profile: true
 ## Previous Teaching
 
 - **FIN 367: Investment Management**  
-  University of Texas at Austin, Summer 2025  
+  University of Texas at Austin, Summer 2025  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rating: 4.30/5 &nbsp; *(Dept avg 4.17/5)*
 
----
+
+
 
 ## Selected Student Feedback
 
