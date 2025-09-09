@@ -19,15 +19,7 @@ I am a Finance PhD student at the University of Texas at Austin, McCombs School 
   <details>
     <summary><small>[Abstract]</small></summary>
     <div class="abstract"><small>
-      We construct a county-level measure of exposure to potential conservation efforts using
-      machine learning–based habitat suitability models. Exploiting the 30-by-30 initiative as a
-      plausibly exogenous shock, we find that a one standard deviation increase in regulatory risk
-      raises house prices by 0.6%. Effects are weaker in counties reliant on nature-based industries
-      but stronger in land-abundant counties where supply is more elastic and demand for nature
-      amenities is high. We find evidence that the price increase is magnified by speculation. Our
-      results suggest that while conservation efforts satisfy demand for nature, they also pose
-      trade-offs for local economic growth and housing affordability, with speculation amplifying
-      these effects.
+Government financing and regulatory actions are necessary to address biodiversity loss, yet the economic consequences of these policies remain unclear. We construct a county-level measure of exposure to potential conservation efforts using machine learning–based habitat suitability models. Exploiting the 30X30 initiative as a plausibly exogenous shock, we find that a one standard deviation increase in regulatory risk raises house prices by 0.6%. Effects are weaker in counties reliant on nature-intensive industries but stronger in land-abundant counties where supply is more elastic and demand for nature amenities is high. We further show that speculation magnifies the price increase. Overall, our results suggest that while conservation efforts satisfy demand for nature, they also pose trade-offs for economic growth and housing affordability, with speculation amplifying these effects.
     </small></div>
   </details>
 </div>
