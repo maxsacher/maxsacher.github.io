@@ -11,7 +11,9 @@ author_profile: true
   University of Texas at Austin, Summer 2025  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rating: 4.30/5 &nbsp; *(Dept avg 4.17/5)*
 
 
+## Awards and Honors
 
+Fred Moore Assistant Instructor Award for Teaching Excellence (2026)
 
 ## Selected Student Feedback
 
